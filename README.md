@@ -1,0 +1,2 @@
+# C_language_lotto_project
+C_language_lotto_project
